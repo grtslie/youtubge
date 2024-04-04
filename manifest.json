@@ -27,7 +27,7 @@
     "https://www.youtube.com/*"
   ],
   "oauth2": {
-    "204730543945-1qvpk8lo2q5hp9lhvrosvnh2vjukrmm2.apps.googleusercontent.com": "104618134280-roirvkp72379ll5d19ej7gl7128l5jk9.apps.googleusercontent.com",
+    "204730543945": "104618134280-roirvkp72379ll5d19ej7gl7128l5jk9.apps.googleusercontent.com",
     "scopes": [
       "https://www.googleapis.com/auth/youtube.readonly"
     ]
